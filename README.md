@@ -5,6 +5,13 @@ Este repositório dedica-se a criar uma aplicação que faça controle do acervo
 
 ## Informações em tags
 
+![GitHub language count](https://img.shields.io/github/languages/count/MauricioPaivadaSilva/Biblioteca-Pessoal)
+![GitHub top language](https://img.shields.io/github/languages/top/MauricioPaivadaSilva/Biblioteca-Pessoal)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/MauricioPaivadaSilva/Biblioteca-Pessoal)
+![GitHub](https://img.shields.io/github/license/MauricioPaivadaSilva/Biblioteca-Pessoal)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MauricioPaivadaSilva/Biblioteca-Pessoal)
+
+
 ---
 
 ## Projeto
